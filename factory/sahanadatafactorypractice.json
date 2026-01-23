@@ -1,0 +1,9 @@
+{
+	"name": "sahanadatafactorypractice",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "897ca315-2516-4223-8fa2-e13ff977bcb2",
+		"tenantId": "864b3cb7-f168-4a3b-bf8f-c4b5d0758ec3"
+	}
+}
